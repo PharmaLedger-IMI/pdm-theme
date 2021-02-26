@@ -1,0 +1,6 @@
+.expiration-date .form-group {
+    margin-bottom: 0 !important;
+}
+.no-padding-left input.form-control{
+    padding-left: 0px;
+}
